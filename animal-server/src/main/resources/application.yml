@@ -7,6 +7,7 @@ spring:
     url: jdbc:mysql://localhost:3306/db_animal
     username: root
     password: 012359
+    password: "012359"
   servlet:
     multipart:
       max-file-size: 100MB
